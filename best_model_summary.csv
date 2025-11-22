@@ -1,0 +1,2 @@
+model,learning_rate,epochs,batch_size,decision_threshold,validation_accuracy,test_accuracy,test_precision,test_recall
+LogisticRegression (scratch),0.0005,1500,64,0.2,0.9648093841642229,0.9589442815249267,0.3548387096774194,0.3333333333333333
