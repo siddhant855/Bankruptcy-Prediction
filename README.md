@@ -1,4 +1,4 @@
-# 📘 Bankruptcy Prediction Using Logistic Regression (From Scratch)
+# 📘 Bankruptcy Prediction Using Logistic Regression
 
 This project implements a **manual Logistic Regression model** to predict corporate bankruptcy using financial ratios. All computations — including gradient descent, loss calculation, and prediction — are implemented **from scratch in NumPy** inside a single Jupyter Notebook.
 
